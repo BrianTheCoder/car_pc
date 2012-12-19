@@ -7,7 +7,10 @@
   },
   "license": "BSD",
   "dependencies": {
-    "express": "3.0.0beta7",
-    "jade": "*"
+    "express": "latest",
+    "jade": "latest",
+    "gpio": "latest",
+    "johnny-five": "latest",
+    "faye": "latest"
   }
 }
