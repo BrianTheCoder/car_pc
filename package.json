@@ -11,6 +11,7 @@
     "jade": "latest",
     "gpio": "latest",
     "johnny-five": "latest",
-    "faye": "latest"
+    "faye": "latest",
+    "openvg-canvas": "latest"
   }
 }
